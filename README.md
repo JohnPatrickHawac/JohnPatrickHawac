@@ -4,7 +4,7 @@
     <h1>My pleasure to meet you. I'm John Patrick A. Hawac</h1>
   </head>
   <body>
-    <p>I''m currently learning and studying Information Technology</p>
+    <p>I'm currently learning and studying Information Technology</p>
     <h3>Education</h3>
     <ul>
       <li>
