@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <h1>Good Day :3 I'm Lourd Allen G. Amante</h1>
+    <h1>My pleasure to meet you. I'm John Patrick A. Hawac</h1>
   </head>
   <body>
-    <p>Currently 2nd Year College at New Era University as BSIT.</p>
+    <p>I''m currently learning and studying Information Technology</p>
     <h3>Education</h3>
     <ul>
       <li>
