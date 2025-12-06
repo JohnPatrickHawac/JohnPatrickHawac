@@ -21,9 +21,9 @@
     <ul>
       <li>
         <a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee">SQL and Relational Databases 101</a><br>
-        <a href=" ">Oracle Cloud Infrastructure 2025 Certified Foundations Associate<b></a><br>
-        <a href=" ">Oracle Data Platform 2025 Certified Foundations Associate</a><br>
-        <a href=" ">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a>
+        <a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Cloud Infrastructure 2025 Certified Foundations Associate<b></a><br>
+        <a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Data Platform 2025 Certified Foundations Associate</a><br>
+        <a href="https://courses.cognitiveclass.ai/certificates/078e6694574a4d408f03908cbffee2ee ">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a>
       </li>
     </ul>
     <p></p>
