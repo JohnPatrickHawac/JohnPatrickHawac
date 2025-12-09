@@ -28,7 +28,7 @@
         <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5F0AD8318442071A820F61B1A272A0FD8A719C8D60AD451BA4DDF595B5E9F93">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
     </ul>
     <ul>
-        <li><a href="">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
+        <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=93AE2C9C6B078FB1962CDF8EB31CC03D41295DA2702A452E8F0ABE67FCE84635">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
     </ul>
     <p></p>
     <hr />
